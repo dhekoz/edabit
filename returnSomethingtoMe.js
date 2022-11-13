@@ -1,5 +1,5 @@
-function giveMeSomething(a){
-    return "something" + a;
+function giveMeSomething(a) {
+  return "something" + a;
 }
 
 //OR
